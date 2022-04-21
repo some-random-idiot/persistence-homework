@@ -1,0 +1,324 @@
+Period,Region,Count
+2005,Northland region,2067
+2005,Auckland region,20745
+2005,Waikato region,5667
+2005,Bay of Plenty region,3771
+2005,Gisborne region,777
+2005,Hawke's Bay region,2115
+2005,Taranaki region,1410
+2005,Manawatu-Wanganui region,3093
+2005,Wellington region,6225
+2005,Tasman region,513
+2005,Nelson region,519
+2005,Marlborough region,471
+2005,West Coast region,336
+2005,Canterbury region,6603
+2005,Otago region,2151
+2005,Southland region,1212
+2005,"Region not stated or
+area outside region",57
+2005,New Zealand,57747
+2006,Northland region,2244
+2006,Auckland region,21333
+2006,Waikato region,5592
+2006,Bay of Plenty region,3840
+2006,Gisborne region,720
+2006,Hawke's Bay region,2163
+2006,Taranaki region,1455
+2006,Manawatu-Wanganui region,3165
+2006,Wellington region,6441
+2006,Tasman region,549
+2006,Nelson region,522
+2006,Marlborough region,486
+2006,West Coast region,390
+2006,Canterbury region,6777
+2006,Otago region,2148
+2006,Southland region,1233
+2006,"Region not stated or
+area outside region",135
+2006,New Zealand,59193
+2007,Northland region,2322
+2007,Auckland region,23007
+2007,Waikato region,6231
+2007,Bay of Plenty region,4053
+2007,Gisborne region,801
+2007,Hawke's Bay region,2319
+2007,Taranaki region,1611
+2007,Manawatu-Wanganui region,3297
+2007,Wellington region,6876
+2007,Tasman region,552
+2007,Nelson region,639
+2007,Marlborough region,513
+2007,West Coast region,405
+2007,Canterbury region,7548
+2007,Otago region,2349
+2007,Southland region,1350
+2007,"Region not stated or
+area outside region",174
+2007,New Zealand,64044
+2008,Northland region,2304
+2008,Auckland region,23112
+2008,Waikato region,6423
+2008,Bay of Plenty region,4116
+2008,Gisborne region,828
+2008,Hawke's Bay region,2358
+2008,Taranaki region,1596
+2008,Manawatu-Wanganui region,3372
+2008,Wellington region,6972
+2008,Tasman region,558
+2008,Nelson region,627
+2008,Marlborough region,570
+2008,West Coast region,453
+2008,Canterbury region,7284
+2008,Otago region,2367
+2008,Southland region,1338
+2008,"Region not stated or
+area outside region",63
+2008,New Zealand,64344
+2009,Northland region,2199
+2009,Auckland region,22605
+2009,Waikato region,6147
+2009,Bay of Plenty region,3939
+2009,Gisborne region,729
+2009,Hawke's Bay region,2352
+2009,Taranaki region,1587
+2009,Manawatu-Wanganui region,3153
+2009,Wellington region,6792
+2009,Tasman region,498
+2009,Nelson region,603
+2009,Marlborough region,552
+2009,West Coast region,432
+2009,Canterbury region,7161
+2009,Otago region,2352
+2009,Southland region,1356
+2009,"Region not stated or
+area outside region",90
+2009,New Zealand,62544
+2010,Northland region,2397
+2010,Auckland region,23214
+2010,Waikato region,6324
+2010,Bay of Plenty region,3957
+2010,Gisborne region,783
+2010,Hawke's Bay region,2286
+2010,Taranaki region,1596
+2010,Manawatu-Wanganui region,3297
+2010,Wellington region,6771
+2010,Tasman region,543
+2010,Nelson region,603
+2010,Marlborough region,573
+2010,West Coast region,429
+2010,Canterbury region,7305
+2010,Otago region,2331
+2010,Southland region,1404
+2010,"Region not stated or
+area outside region",81
+2010,New Zealand,63897
+2011,Northland region,2199
+2011,Auckland region,22659
+2011,Waikato region,5916
+2011,Bay of Plenty region,3951
+2011,Gisborne region,738
+2011,Hawke's Bay region,2226
+2011,Taranaki region,1554
+2011,Manawatu-Wanganui region,3171
+2011,Wellington region,6528
+2011,Tasman region,501
+2011,Nelson region,600
+2011,Marlborough region,540
+2011,West Coast region,432
+2011,Canterbury region,6693
+2011,Otago region,2340
+2011,Southland region,1332
+2011,"Region not stated or
+area outside region",24
+2011,New Zealand,61401
+2012,Northland region,2310
+2012,Auckland region,22836
+2012,Waikato region,6051
+2012,Bay of Plenty region,3876
+2012,Gisborne region,708
+2012,Hawke's Bay region,2238
+2012,Taranaki region,1533
+2012,Manawatu-Wanganui region,3015
+2012,Wellington region,6435
+2012,Tasman region,477
+2012,Nelson region,546
+2012,Marlborough region,507
+2012,West Coast region,417
+2012,Canterbury region,6633
+2012,Otago region,2337
+2012,Southland region,1245
+2012,"Region not stated or
+area outside region",18
+2012,New Zealand,61179
+2013,Northland region,2124
+2013,Auckland region,21825
+2013,Waikato region,5745
+2013,Bay of Plenty region,3696
+2013,Gisborne region,699
+2013,Hawke's Bay region,2160
+2013,Taranaki region,1503
+2013,Manawatu-Wanganui region,2985
+2013,Wellington region,6057
+2013,Tasman region,486
+2013,Nelson region,555
+2013,Marlborough region,504
+2013,West Coast region,384
+2013,Canterbury region,6543
+2013,Otago region,2235
+2013,Southland region,1200
+2013,"Region not stated or
+area outside region",12
+2013,New Zealand,58716
+2014,Northland region,2049
+2014,Auckland region,21429
+2014,Waikato region,5688
+2014,Bay of Plenty region,3504
+2014,Gisborne region,651
+2014,Hawke's Bay region,2037
+2014,Taranaki region,1506
+2014,Manawatu-Wanganui region,2865
+2014,Wellington region,5889
+2014,Tasman region,411
+2014,Nelson region,534
+2014,Marlborough region,486
+2014,West Coast region,375
+2014,Canterbury region,6573
+2014,Otago region,2088
+2014,Southland region,1134
+2014,"Region not stated or
+area outside region",21
+2014,New Zealand,57243
+2015,Northland region,2196
+2015,Auckland region,22434
+2015,Waikato region,6234
+2015,Bay of Plenty region,3879
+2015,Gisborne region,717
+2015,Hawke's Bay region,2145
+2015,Taranaki region,1611
+2015,Manawatu-Wanganui region,3072
+2015,Wellington region,6231
+2015,Tasman region,447
+2015,Nelson region,534
+2015,Marlborough region,489
+2015,West Coast region,381
+2015,Canterbury region,7077
+2015,Otago region,2358
+2015,Southland region,1224
+2015,"Region not stated or
+area outside region",12
+2015,New Zealand,61038
+2016,Northland region,2229
+2016,Auckland region,21810
+2016,Waikato region,6066
+2016,Bay of Plenty region,3864
+2016,Gisborne region,738
+2016,Hawke's Bay region,2058
+2016,Taranaki region,1473
+2016,Manawatu-Wanganui region,2928
+2016,Wellington region,6015
+2016,Tasman region,453
+2016,Nelson region,540
+2016,Marlborough region,534
+2016,West Coast region,324
+2016,Canterbury region,7014
+2016,Otago region,2199
+2016,Southland region,1161
+2016,"Region not stated or
+area outside region",15
+2016,New Zealand,59427
+2017,Northland region,2247
+2017,Auckland region,21393
+2017,Waikato region,6204
+2017,Bay of Plenty region,4086
+2017,Gisborne region,705
+2017,Hawke's Bay region,2127
+2017,Taranaki region,1389
+2017,Manawatu-Wanganui region,3045
+2017,Wellington region,6057
+2017,Tasman region,459
+2017,Nelson region,504
+2017,Marlborough region,495
+2017,West Coast region,363
+2017,Canterbury region,7065
+2017,Otago region,2241
+2017,Southland region,1215
+2017,"Region not stated or
+area outside region",15
+2017,New Zealand,59610
+2018,Northland region,2181
+2018,Auckland region,20712
+2018,Waikato region,6054
+2018,Bay of Plenty region,3969
+2018,Gisborne region,711
+2018,Hawke's Bay region,2070
+2018,Taranaki region,1548
+2018,Manawatu-Wanganui region,3024
+2018,Wellington region,5706
+2018,Tasman region,447
+2018,Nelson region,540
+2018,Marlborough region,504
+2018,West Coast region,324
+2018,Canterbury region,6939
+2018,Otago region,2148
+2018,Southland region,1119
+2018,"Region not stated or
+area outside region",18
+2018,New Zealand,58020
+2019,Northland region,2250
+2019,Auckland region,21405
+2019,Waikato region,6237
+2019,Bay of Plenty region,4047
+2019,Gisborne region,675
+2019,Hawke's Bay region,2037
+2019,Taranaki region,1542
+2019,Manawatu-Wanganui region,3057
+2019,Wellington region,5904
+2019,Tasman region,462
+2019,Nelson region,537
+2019,Marlborough region,480
+2019,West Coast region,354
+2019,Canterbury region,7164
+2019,Otago region,2310
+2019,Southland region,1152
+2019,"Region not stated or
+area outside region",21
+2019,New Zealand,59637
+2020,Northland region,2244
+2020,Auckland region,20385
+2020,Waikato region,6195
+2020,Bay of Plenty region,4005
+2020,Gisborne region,663
+2020,Hawke's Bay region,2079
+2020,Taranaki region,1467
+2020,Manawatu-Wanganui region,2976
+2020,Wellington region,5691
+2020,Tasman region,474
+2020,Nelson region,477
+2020,Marlborough region,477
+2020,West Coast region,312
+2020,Canterbury region,6780
+2020,Otago region,2238
+2020,Southland region,1083
+2020,"Region not stated or
+area outside region",18
+2020,New Zealand,57576
+2021,Northland region,2262
+2021,Auckland region,20520
+2021,Waikato region,6330
+2021,Bay of Plenty region,4173
+2021,Gisborne region,675
+2021,Hawke's Bay region,2127
+2021,Taranaki region,1488
+2021,Manawatu-Wanganui region,2952
+2021,Wellington region,5769
+2021,Tasman region,492
+2021,Nelson region,498
+2021,Marlborough region,486
+2021,West Coast region,333
+2021,Canterbury region,7158
+2021,Otago region,2325
+2021,Southland region,1059
+2021,"Region not stated or
+area outside region",12
+2021,New Zealand,58659
