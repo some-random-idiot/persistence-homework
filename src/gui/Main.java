@@ -18,30 +18,38 @@ public class Main extends JFrame {
         // Create the main window.
         super("Births and Deaths in New Zealand");
         setSize(400, 400);
+        setResizable(false);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new BoxLayout(getContentPane(), BoxLayout.Y_AXIS));
 
-        JLabel buttonContainer = new JLabel();
         JButton birthsButton = new JButton("Show Birth Records");
-        birthsButton.setBounds(50,100,95,30);
         birthsButton.setAlignmentX(Component.CENTER_ALIGNMENT);
+        
+
         JButton deathsButton = new JButton("Show Death Records");
-        deathsButton.setBounds(50,100,95,30);
         deathsButton.setAlignmentX(Component.CENTER_ALIGNMENT);
+
         JButton createButton = new JButton("Add a Record");
-        createButton.setBounds(50,100,95,30);
         createButton.setAlignmentX(Component.CENTER_ALIGNMENT);
+
         JButton deleteButton = new JButton("Delete a Record");
-        deleteButton.setBounds(50,100,95,30);
         deleteButton.setAlignmentX(Component.CENTER_ALIGNMENT);
+
         JButton findButton = new JButton("Find a Record");
-        findButton.setBounds(50,100,95,30);
         findButton.setAlignmentX(Component.CENTER_ALIGNMENT);
+
+        add(Box.createVerticalGlue());
         add(birthsButton);
+        add(Box.createRigidArea(new Dimension(0, 20)));
         add(deathsButton);
+        add(Box.createRigidArea(new Dimension(0, 20)));
         add(createButton);
+        add(Box.createRigidArea(new Dimension(0, 20)));
         add(deleteButton);
+        add(Box.createRigidArea(new Dimension(0, 20)));
         add(findButton);
+        add(Box.createRigidArea(new Dimension(0, 20)));
+        add(Box.createVerticalGlue());
 
         setVisible(true);
     }
