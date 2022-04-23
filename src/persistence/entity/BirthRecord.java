@@ -4,12 +4,10 @@ import javax.persistence.*;
 
 @Entity(name = "births_in_new_zealand")
 public class BirthRecord {
-    @Id
-    @OneToOne
-    private int period;
+    @Column(nullable = false)
+    private Integer period;
 
-    @Id
-    @OneToOne
+    @Column(nullable = false)
     private String region;
 
     @Column(nullable = false)
