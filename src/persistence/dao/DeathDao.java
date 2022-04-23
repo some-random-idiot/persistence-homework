@@ -12,12 +12,6 @@ public class DeathDao extends BaseDaoImpl<DeathRecord, Integer> implements DaoSk
     }
 
     @Override
-    public void updateRecord(int period, String region, int count) throws SQLException {
-        // Create a new record, or update an existing one if it already exists.
-        super.createOrUpdate(new DeathRecord(period, region, count));
-    }
-
-    @Override
     public DeathRecord findByPeriodAndRegion(int period, String region) throws SQLException {
         // Find a record by period and region.
         return super.queryBuilder()

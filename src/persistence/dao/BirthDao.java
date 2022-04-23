@@ -12,12 +12,6 @@ public class BirthDao extends BaseDaoImpl<BirthRecord, Integer> implements DaoSk
     }
 
     @Override
-    public void updateRecord(int period, String region, int count) throws SQLException {
-        // Create a new record, or update an existing one if it already exists.
-        super.createOrUpdate(new BirthRecord(period, region, count));
-    }
-
-    @Override
     public BirthRecord findByPeriodAndRegion(int period, String region) throws SQLException {
         // Find a record by period and region.
         return super.queryBuilder()
