@@ -11,22 +11,12 @@ public class DaoFactory {
         this.connectionSource = connectionSource;
     }
 
-    public DaoSkeleton getDao(String type) {
+    public DaoSkeleton getDao(String type) throws SQLException {
         if (type.equals("BirthDao")) {
-            try {
-                return new BirthDao(connectionSource);
-            }
-            catch (SQLException e) {
-                e.printStackTrace();
-            }
+            return new BirthDao(connectionSource);
         }
         else if (type.equals("DeathDao")) {
-            try {
-                return new DeathDao(connectionSource);
-            }
-            catch (SQLException e) {
-                e.printStackTrace();
-            }
+            return new DeathDao(connectionSource);
         }
         return null;
     }
