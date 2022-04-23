@@ -1,13 +1,15 @@
-package persistence;
+package persistence.entity;
 
 import javax.persistence.*;
 
 @Entity(name = "births_in_new_zealand")
 public class DeathRecord {
-    @Column(nullable = false)
+    @Id
+    @OneToOne
     private int period;
 
-    @Column(nullable = false)
+    @Id
+    @OneToOne
     private String region;
 
     @Column(nullable = false)
