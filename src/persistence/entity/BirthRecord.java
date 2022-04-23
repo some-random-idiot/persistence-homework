@@ -14,4 +14,31 @@ public class BirthRecord {
 
     @Column(nullable = false)
     private int birth_count;
+
+    public BirthRecord() {
+    }
+
+    public int getPeriod() {
+        return period;
+    }
+
+    public String getRegion() {
+        return region;
+    }
+
+    public int getBirth_count() {
+        return birth_count;
+    }
+
+    public void setPeriod(int period) {
+        this.period = period;
+    }
+
+    public void setRegion(String region) {
+        this.region = region;
+    }
+
+    public void setBirth_count(int birth_count) {
+        this.birth_count = birth_count;
+    }
 }
