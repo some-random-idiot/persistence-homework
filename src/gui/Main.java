@@ -1,23 +1,48 @@
 package gui;
 
-import com.j256.ormlite.jdbc.JdbcConnectionSource;
 import persistence.dao.BirthDao;
 import persistence.dao.DaoFactory;
 import persistence.dao.DeathDao;
-import persistence.entity.BirthRecord;
 
-import java.util.List;
+import javax.swing.*;
+import java.awt.*;
 
-public class Main {
+public class Main extends JFrame {
 
     public static void main(String[] args) throws Exception {
-        DaoFactory daoFactory = new DaoFactory();
-        BirthDao birthDao = (BirthDao) daoFactory.getDao("BirthDao");
-        DeathDao deathDao = (DeathDao) daoFactory.getDao("DeathDao");
-        List<BirthRecord> birthRecords = birthDao.queryForAll();
-        for (BirthRecord birthRecord : birthRecords) {
-            System.out.println(birthRecord.getPeriod() + " " + birthRecord.getRegion() + " " +
-                               birthRecord.getBirth_count());
-        }
+        Main main = new Main();
+
+    }
+
+    Main() {
+        // Create the main window.
+        super("Births and Deaths in New Zealand");
+        setSize(400, 400);
+        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        setLayout(new BoxLayout(getContentPane(), BoxLayout.Y_AXIS));
+
+        JLabel buttonContainer = new JLabel();
+        JButton birthsButton = new JButton("Show Birth Records");
+        birthsButton.setBounds(50,100,95,30);
+        birthsButton.setAlignmentX(Component.CENTER_ALIGNMENT);
+        JButton deathsButton = new JButton("Show Death Records");
+        deathsButton.setBounds(50,100,95,30);
+        deathsButton.setAlignmentX(Component.CENTER_ALIGNMENT);
+        JButton createButton = new JButton("Add a Record");
+        createButton.setBounds(50,100,95,30);
+        createButton.setAlignmentX(Component.CENTER_ALIGNMENT);
+        JButton deleteButton = new JButton("Delete a Record");
+        deleteButton.setBounds(50,100,95,30);
+        deleteButton.setAlignmentX(Component.CENTER_ALIGNMENT);
+        JButton findButton = new JButton("Find a Record");
+        findButton.setBounds(50,100,95,30);
+        findButton.setAlignmentX(Component.CENTER_ALIGNMENT);
+        add(birthsButton);
+        add(deathsButton);
+        add(createButton);
+        add(deleteButton);
+        add(findButton);
+
+        setVisible(true);
     }
 }
