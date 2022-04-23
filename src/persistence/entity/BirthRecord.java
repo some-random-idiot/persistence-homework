@@ -3,7 +3,7 @@ package persistence.entity;
 import javax.persistence.*;
 
 @Entity(name = "births_in_new_zealand")
-public class BirthRecord {
+public class BirthRecord implements RecordSkeleton {
     @Column(nullable = false)
     private Integer period;
 
