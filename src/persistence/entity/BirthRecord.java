@@ -15,7 +15,10 @@ public class BirthRecord {
     @Column(nullable = false)
     private int birth_count;
 
-    public BirthRecord() {
+    public BirthRecord(int period, String region, int birth_count) {
+        this.period = period;
+        this.region = region;
+        this.birth_count = birth_count;
     }
 
     public int getPeriod() {

@@ -15,7 +15,10 @@ public class DeathRecord {
     @Column(nullable = false)
     private int death_count;
 
-    public DeathRecord() {
+    public DeathRecord(int period, String region, int count) {
+        this.period = period;
+        this.region = region;
+        this.death_count = count;
     }
 
     public int getPeriod() {
