@@ -3,6 +3,8 @@ CREATE TABLE IF NOT EXISTS births_in_new_zealand (
     region        TEXT NOT NULL,
     birth_count   INTEGER NOT NULL,
     PRIMARY KEY (period, region)
+    FOREIGN KEY (period) REFERENCES deaths_in_new_zealand (period)
+    FOREIGN KEY (region) REFERENCES deaths_in_new_zealand (region)
 );
 
 CREATE TABLE IF NOT EXISTS deaths_in_new_zealand (
@@ -10,4 +12,6 @@ CREATE TABLE IF NOT EXISTS deaths_in_new_zealand (
     region        TEXT NOT NULL,
     death_count   INTEGER NOT NULL,
     PRIMARY KEY (period, region)
+    FOREIGN KEY (period) REFERENCES births_in_new_zealand (period)
+    FOREIGN KEY (region) REFERENCES births_in_new_zealand (region)
 );
