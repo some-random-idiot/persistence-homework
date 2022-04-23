@@ -3,7 +3,6 @@ package persistence.dao;
 import com.j256.ormlite.dao.BaseDaoImpl;
 import com.j256.ormlite.support.ConnectionSource;
 import persistence.entity.BirthRecord;
-import persistence.entity.RecordSkeleton;
 
 import java.sql.SQLException;
 
