@@ -10,6 +10,7 @@ people in New Zealand. The data is categorized by year and region, starting in 2
 - Run with **Java 11** for best compatibility.
 
 ## Running the program
+### Setting up the database
 First you need to create an SQLite database file using the following command.
 
 ```
@@ -25,3 +26,4 @@ sqlite> .mode csv
 sqlite> .import data/births_in_new_zealand.csv births_in_new_zealand
 sqlite> .import data/deaths_in_new_zealand.csv deaths_in_new_zealand
 ```
+### Configuring and running the program
