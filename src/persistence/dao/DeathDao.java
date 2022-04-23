@@ -16,9 +16,9 @@ public class DeathDao extends BaseDaoImpl<DeathRecord, Integer> implements DaoSk
         // Find a record by period and region.
         return super.queryBuilder()
                 .where()
-                .eq("period", period)
-                .and()
-                .eq("region", region)
+                    .eq("period", period)
+                    .and()
+                    .eq("region", region)
                 .queryForFirst();
     }
 }
