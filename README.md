@@ -13,13 +13,13 @@ people in New Zealand. The data is categorized by year and region, starting in 2
 ### Setting up the database
 First you need to create an SQLite database file using the following command.
 
-```
+```shell
 sqlite3 database_name.db < database.schema
 ```
 
 Then you can import the datasets from the CSV files using the following command.
 
-```
+```shell
 sqlite3 database_name.db
 
 sqlite> .mode csv
@@ -36,6 +36,6 @@ It must be located in a file called database.properties in the root directory of
 #### Compiling and running
 The program is compiled using the following command, assuming you are at project root.
 
-```
+```shell
 javac src/gui/Main.java
 ```
