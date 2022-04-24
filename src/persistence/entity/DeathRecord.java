@@ -4,6 +4,10 @@ import javax.persistence.*;
 
 @Entity(name = "deaths_in_new_zealand")
 public class DeathRecord implements RecordSkeleton {
+    @Id
+    @GeneratedValue
+    private long id;
+
     @Column(nullable = false)
     private Integer period;
 
