@@ -15,8 +15,7 @@ id,period,region,birth_count
 14,2005,Canterbury region,6603
 15,2005,Otago region,2151
 16,2005,Southland region,1212
-17,2005,"Region not stated or
-area outside region",57
+17,2005,"Region not stated or area outside region",57
 18,2005,New Zealand,57747
 19,2006,Northland region,2244
 20,2006,Auckland region,21333
@@ -34,8 +33,7 @@ area outside region",57
 32,2006,Canterbury region,6777
 33,2006,Otago region,2148
 34,2006,Southland region,1233
-35,2006,"Region not stated or
-area outside region",135
+35,2006,"Region not stated or area outside region",135
 36,2006,New Zealand,59193
 37,2007,Northland region,2322
 38,2007,Auckland region,23007
@@ -53,8 +51,7 @@ area outside region",135
 50,2007,Canterbury region,7548
 51,2007,Otago region,2349
 52,2007,Southland region,1350
-53,2007,"Region not stated or
-area outside region",174
+53,2007,"Region not stated or area outside region",174
 54,2007,New Zealand,64044
 55,2008,Northland region,2304
 56,2008,Auckland region,23112
@@ -72,8 +69,7 @@ area outside region",174
 68,2008,Canterbury region,7284
 69,2008,Otago region,2367
 70,2008,Southland region,1338
-71,2008,"Region not stated or
-area outside region",63
+71,2008,"Region not stated or area outside region",63
 72,2008,New Zealand,64344
 73,2009,Northland region,2199
 74,2009,Auckland region,22605
@@ -91,8 +87,7 @@ area outside region",63
 86,2009,Canterbury region,7161
 87,2009,Otago region,2352
 88,2009,Southland region,1356
-89,2009,"Region not stated or
-area outside region",90
+89,2009,"Region not stated or area outside region",90
 90,2009,New Zealand,62544
 91,2010,Northland region,2397
 92,2010,Auckland region,23214
@@ -110,8 +105,7 @@ area outside region",90
 104,2010,Canterbury region,7305
 105,2010,Otago region,2331
 106,2010,Southland region,1404
-107,2010,"Region not stated or
-area outside region",81
+107,2010,"Region not stated or area outside region",81
 108,2010,New Zealand,63897
 109,2011,Northland region,2199
 110,2011,Auckland region,22659
@@ -129,8 +123,7 @@ area outside region",81
 122,2011,Canterbury region,6693
 123,2011,Otago region,2340
 124,2011,Southland region,1332
-125,2011,"Region not stated or
-area outside region",24
+125,2011,"Region not stated or area outside region",24
 126,2011,New Zealand,61401
 127,2012,Northland region,2310
 128,2012,Auckland region,22836
@@ -148,8 +141,7 @@ area outside region",24
 140,2012,Canterbury region,6633
 141,2012,Otago region,2337
 142,2012,Southland region,1245
-143,2012,"Region not stated or
-area outside region",18
+143,2012,"Region not stated or area outside region",18
 144,2012,New Zealand,61179
 145,2013,Northland region,2124
 146,2013,Auckland region,21825
@@ -167,8 +159,7 @@ area outside region",18
 158,2013,Canterbury region,6543
 159,2013,Otago region,2235
 160,2013,Southland region,1200
-161,2013,"Region not stated or
-area outside region",12
+161,2013,"Region not stated or area outside region",12
 162,2013,New Zealand,58716
 163,2014,Northland region,2049
 164,2014,Auckland region,21429
@@ -186,8 +177,7 @@ area outside region",12
 176,2014,Canterbury region,6573
 177,2014,Otago region,2088
 178,2014,Southland region,1134
-179,2014,"Region not stated or
-area outside region",21
+179,2014,"Region not stated or area outside region",21
 180,2014,New Zealand,57243
 181,2015,Northland region,2196
 182,2015,Auckland region,22434
@@ -205,8 +195,7 @@ area outside region",21
 194,2015,Canterbury region,7077
 195,2015,Otago region,2358
 196,2015,Southland region,1224
-197,2015,"Region not stated or
-area outside region",12
+197,2015,"Region not stated or area outside region",12
 198,2015,New Zealand,61038
 199,2016,Northland region,2229
 200,2016,Auckland region,21810
@@ -224,8 +213,7 @@ area outside region",12
 212,2016,Canterbury region,7014
 213,2016,Otago region,2199
 214,2016,Southland region,1161
-215,2016,"Region not stated or
-area outside region",15
+215,2016,"Region not stated or area outside region",15
 216,2016,New Zealand,59427
 217,2017,Northland region,2247
 218,2017,Auckland region,21393
@@ -243,8 +231,7 @@ area outside region",15
 230,2017,Canterbury region,7065
 231,2017,Otago region,2241
 232,2017,Southland region,1215
-233,2017,"Region not stated or
-area outside region",15
+233,2017,"Region not stated or area outside region",15
 234,2017,New Zealand,59610
 235,2018,Northland region,2181
 236,2018,Auckland region,20712
@@ -262,8 +249,7 @@ area outside region",15
 248,2018,Canterbury region,6939
 249,2018,Otago region,2148
 250,2018,Southland region,1119
-251,2018,"Region not stated or
-area outside region",18
+251,2018,"Region not stated or area outside region",18
 252,2018,New Zealand,58020
 253,2019,Northland region,2250
 254,2019,Auckland region,21405
@@ -281,8 +267,7 @@ area outside region",18
 266,2019,Canterbury region,7164
 267,2019,Otago region,2310
 268,2019,Southland region,1152
-269,2019,"Region not stated or
-area outside region",21
+269,2019,"Region not stated or area outside region",21
 270,2019,New Zealand,59637
 271,2020,Northland region,2244
 272,2020,Auckland region,20385
@@ -300,8 +285,7 @@ area outside region",21
 284,2020,Canterbury region,6780
 285,2020,Otago region,2238
 286,2020,Southland region,1083
-287,2020,"Region not stated or
-area outside region",18
+287,2020,"Region not stated or area outside region",18
 288,2020,New Zealand,57576
 289,2021,Northland region,2262
 290,2021,Auckland region,20520
@@ -319,6 +303,5 @@ area outside region",18
 302,2021,Canterbury region,7158
 303,2021,Otago region,2325
 304,2021,Southland region,1059
-305,2021,"Region not stated or
-area outside region",12
+305,2021,"Region not stated or area outside region",12
 306,2021,New Zealand,58659
