@@ -5,6 +5,6 @@ import persistence.entity.RecordSkeleton;
 import java.sql.SQLException;
 
 public interface DaoSkeleton {
-    public RecordSkeleton findByPeriodAndRegion(int period, String region) throws SQLException;
-    public void createOrUpdateRec(RecordSkeleton record) throws SQLException;
+    RecordSkeleton findByPeriodAndRegion(int period, String region) throws SQLException;
+    void createOrUpdateRec(RecordSkeleton record) throws SQLException;
 }
