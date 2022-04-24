@@ -26,7 +26,7 @@ sqlite> .mode csv
 sqlite> .import data/births_in_new_zealand.csv births_in_new_zealand
 sqlite> .import data/deaths_in_new_zealand.csv deaths_in_new_zealand
 ```
-Ignore the errors, it appears even when the data is successfully imported.
+Ignore the errors, they appear even when the data is successfully imported.
 
 ### Configuring and running the program
 #### Environment variable
