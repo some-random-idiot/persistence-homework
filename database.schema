@@ -1,5 +1,5 @@
 CREATE TABLE IF NOT EXISTS births_in_new_zealand (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    id            INTEGER PRIMARY KEY,
     period        INTEGER NOT NULL,
     region        TEXT NOT NULL,
     birth_count   INTEGER NOT NULL,
@@ -8,7 +8,7 @@ CREATE TABLE IF NOT EXISTS births_in_new_zealand (
 );
 
 CREATE TABLE IF NOT EXISTS deaths_in_new_zealand (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    id            INTEGER PRIMARY KEY,
     period        INTEGER NOT NULL,
     region        TEXT NOT NULL,
     death_count   INTEGER NOT NULL,
