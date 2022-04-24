@@ -63,7 +63,7 @@ public class Main extends JFrame {
                 }
         );
 
-        JButton findButton = new JButton("Find a Record");
+        JButton findButton = new JButton("Find a Record by Period and Region");
         findButton.setAlignmentX(Component.CENTER_ALIGNMENT);
         findButton.addActionListener(e -> {
                     findRecord();
