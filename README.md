@@ -5,9 +5,15 @@ A simple program that allows the user to manipulate and view a database containi
 people in New Zealand. The data is categorized by year and region, starting in 2005 and ending in 2021.
 
 ## Technical details
+### General information
 - This program uses the **ORMLite** library in conjunction with JPA to interface with the database.
 - The data must be stored in a **SQLite** database file.
 - Run with **Java 11** for best compatibility.
+### Diagrams
+#### Class Diagram
+![Class Diagram](./diagrams/ClassDiagram.png)
+#### Package Diagram
+![Package Diagram](./diagrams/PackageDiagram.png)
 
 ## Running the program
 ### Setting up the database
